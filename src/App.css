@@ -1,0 +1,39 @@
+h1 {
+  margin-left: 23.5rem;
+}
+
+.search {
+  margin-bottom: 1rem;
+  width: 15%;
+  margin-left: 23.5rem;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.formulario {
+  align-items:center;
+}
+
+.item {
+  border-radius: 4px;
+  margin-bottom: 6px;
+  width: 12rem;
+}
+
+.boton-submit {
+  border-radius: 4px;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  width: 12rem;
+}
+
+.alert-message{
+  margin-top: 10px;
+  width: 12rem;
+}
