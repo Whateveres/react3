@@ -7,6 +7,7 @@ const Listado = ({ colaboradores, eliminarColaborador }) => {
     <Table responsive striped bordered hover>
       <thead>
         <tr>
+
           <th>#</th>
           <th>Nombre</th>
           <th>Correo</th>
@@ -14,6 +15,7 @@ const Listado = ({ colaboradores, eliminarColaborador }) => {
           <th>Cargo</th>
           <th>Teléfono</th>
         </tr>
+        
       </thead>
       <tbody>
 
